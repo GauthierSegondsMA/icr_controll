@@ -2,12 +2,10 @@ pandas
 numpy 
 requests
 boto3
-botocore.client 
+botocore
 logging
-botocore.exceptions
 jsonpath_ng 
 openpyxl 
-openpyxl.utils.dataframe 
 img2pdf 
 time
 PIL 
