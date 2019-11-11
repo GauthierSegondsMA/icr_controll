@@ -6,7 +6,3 @@ botocore
 jsonpath_ng 
 openpyxl 
 img2pdf  
-traceback
-nltk 
-tenacity
-ast
