@@ -6,3 +6,5 @@ botocore
 jsonpath_ng 
 openpyxl 
 img2pdf  
+tenacity
+nltk
