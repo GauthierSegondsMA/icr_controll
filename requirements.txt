@@ -1,6 +1,5 @@
 pandas
-numpy
-os 
+numpy 
 json
 requests
 boto3
