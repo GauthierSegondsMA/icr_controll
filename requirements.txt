@@ -6,7 +6,6 @@ botocore
 jsonpath_ng 
 openpyxl 
 img2pdf 
-time
 PIL 
 traceback
 nltk 
