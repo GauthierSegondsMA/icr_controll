@@ -1,6 +1,5 @@
 pandas
 numpy 
-json
 requests
 boto3
 botocore.client 
@@ -9,8 +8,6 @@ botocore.exceptions
 jsonpath_ng 
 openpyxl 
 openpyxl.utils.dataframe 
-io 
-sys
 img2pdf 
 time
 PIL 
