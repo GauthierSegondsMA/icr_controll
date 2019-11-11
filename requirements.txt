@@ -3,7 +3,6 @@ numpy
 requests
 boto3
 botocore
-logging
 jsonpath_ng 
 openpyxl 
 img2pdf 
