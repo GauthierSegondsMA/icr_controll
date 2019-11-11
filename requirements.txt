@@ -5,8 +5,7 @@ boto3
 botocore
 jsonpath_ng 
 openpyxl 
-img2pdf 
-PIL 
+img2pdf  
 traceback
 nltk 
 tenacity
